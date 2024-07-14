@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pokifo
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martinoravkin2002@gmail.com
 
 <!---
